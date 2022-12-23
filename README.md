@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**rohhhit31/rohhhit31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 💫 About Me:
 I'm Currently polishing my Web Development skills.<br>Want to contribute to open source projects.<br>Looking for a team.<br>Bad Habit :: I am very organized<3.
 
