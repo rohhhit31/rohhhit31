@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Currently polishing my Web Development skills.<br>Want to contribute to open source projects.<br>Looking for a team.<br>Bad Habit :: I am very organized<3.
+MERN Developer.<br>Want to contribute to open source projects.<br>Looking for a team.<br>Bad Habit :: I am very organized<3.
 
 
 ## 🌐 Socials:
