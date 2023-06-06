@@ -21,4 +21,7 @@ MERN Developer.<br>Want to contribute to open source projects.<br>Looking for a 
 ---
 [![](https://visitcount.itsvg.in/api?id=rohhhit31&icon=7&color=6)](https://visitcount.itsvg.in)
 
+[![rohhhit31's GitHub | Stats](https://stats.quine.sh/rohhhit31/github?theme=dark)](https://quine.sh)
+[![rohhhit31's GitHub | Topics](https://stats.quine.sh/rohhhit31/topics-over-time?theme=dark)](https://quine.sh)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
